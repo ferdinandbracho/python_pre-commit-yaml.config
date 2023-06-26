@@ -19,3 +19,6 @@ pre-commit install
 ```
 
 4.**(optional) Run against all the files**
+```sh
+pre-commit run --all-files
+```
